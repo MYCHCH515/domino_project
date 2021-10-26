@@ -1,9 +1,9 @@
-# domino_project
 <img src="https://user-images.githubusercontent.com/54904892/138866551-6f416cd3-0847-4d67-b28b-d0f609cd4dec.png"  width="416" height="100"/>
 <br>
 
 ## 1. 서비스 소개
 + 피자 배달 전문 브랜드인 도미노피자 웹사이트를 클론코딩한 프로젝트
+### 🏠[Github](https://github.com/MYCHCH515/domino_project) 🎤[Presentation](https://github.com/MYCHCH515/mychch515/files/7420831/1.Dominos.pdf)
 
 ## 2. 개요
 + 명칭 : 도미노피자 클론코딩
