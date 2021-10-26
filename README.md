@@ -1,6 +1,5 @@
-<img src="https://user-images.githubusercontent.com/54904892/138866551-6f416cd3-0847-4d67-b28b-d0f609cd4dec.png"  width="416" height="100"/>
-
 # domino_project
+<img src="https://user-images.githubusercontent.com/54904892/138866551-6f416cd3-0847-4d67-b28b-d0f609cd4dec.png"  width="416" height="100"/>
 <br>
 
 ## 1. 서비스 소개
@@ -8,7 +7,7 @@
 
 ## 2. 개요
 + 명칭 : 도미노피자 클론코딩
-+ 개발 기간 : 2020.10.28 ~ 1010.11.30
++ 개발 기간 : 2020.10.28 ~ 2010.11.30
 + 개발 인원 : 5명
 + 업무 내용 :
   + 인프라구축
@@ -40,18 +39,3 @@ XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할
 
 [https://github.com/yourname/github-link](https://github.com/dbader/)
 
-## 기여 방법
-
-1. (<https://github.com/yourname/yourproject/fork>)을 포크합니다.
-2. (`git checkout -b feature/fooBar`) 명령어로 새 브랜치를 만드세요.
-3. (`git commit -am 'Add some fooBar'`) 명령어로 커밋하세요.
-4. (`git push origin feature/fooBar`) 명령어로 브랜치에 푸시하세요. 
-5. 풀리퀘스트를 보내주세요.
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
