@@ -25,6 +25,7 @@
 + 데이터 베이스 : Docker에서 oracle 11g 이미지 사용
 + 협업 도구 : Git, Jira
 
+<!--
 ## 3. 사용 예제
 
 스크린 샷과 코드 예제를 통해 사용 방법을 자세히 설명합니다.
@@ -38,4 +39,4 @@ _더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
 XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.
 
 [https://github.com/yourname/github-link](https://github.com/dbader/)
-
+-->
